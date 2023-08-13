@@ -1,7 +1,7 @@
 cron:
   script:
     - name: your-script-name
-      cron: '35 2 * * *' # at 20:00
+      cron: '29 2 * * *' # at 20:00
       timeout: 30 # optional
  
 script-providers:
